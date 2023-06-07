@@ -48,5 +48,3 @@ int main(void)
         cout << i << ' ';
     cout << '\n';
 }
-
-//  ABCDEF
