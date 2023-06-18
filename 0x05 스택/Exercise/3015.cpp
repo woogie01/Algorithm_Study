@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#define X first
+#define X first 
 #define Y second
 
 int main()
